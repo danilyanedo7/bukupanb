@@ -2,7 +2,7 @@ dasar-dasar-survival
 shelter
 pendahuluan
 jenis-jenis-shelter
-section
+yeah
 teknik-menyalakan-api
 pendahuluan-1
 material
@@ -11,3 +11,5 @@ keamanan-dan-keselamatan
 troubleshooting
 penutup
 bahan-ajar-lanjutan
+makanan-dan-minuman-di-alam-liar
+yeah-1
