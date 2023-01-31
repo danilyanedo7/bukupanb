@@ -1,9 +1,18 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Buku Panduan Kegiatan Alam Liar: Pecinta Alam Nusantara Bhakti"
+author: 
+- name: Edo Danilyan
+  email: danilyanedo7@gmail.com
+  affiliation: Organisasi Pecinta Alam Nusantara Bhakti '26'
+- name: Fathoni Agung Nugraha
+  email: onichan@gmail.com
+  affiliation: Organisasi Pecinta Alam Nusantara Bhakti '26'
+- name: Roqiyus Shofie
+  email: ciyuschan@gmail.com
+  affiliation: Organisasi Pecinta Alam Nusantara Bhakti '25'
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Dasar-dasar Survival
 
